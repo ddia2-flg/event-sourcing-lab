@@ -1,0 +1,11 @@
+target/
+*.class
+*.jar
+*.war
+*.iml
+.idea/
+.DS_Store
+
+.claude/
+.sfdx/
+.vscode/
